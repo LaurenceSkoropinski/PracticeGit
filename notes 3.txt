@@ -1,2 +1,2 @@
 
-Practice Git master on a merge
+Practice Git merge again on master
