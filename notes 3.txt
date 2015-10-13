@@ -1,2 +1,2 @@
-# PracticeGit
-Practice Git on master
+
+Practice Git master on a merge
