@@ -1,2 +1,2 @@
 
-Practice Git merge again on master
+note 3 master
